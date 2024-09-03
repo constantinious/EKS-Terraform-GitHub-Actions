@@ -17,5 +17,4 @@ terraform {
 
 provider "aws" {
   region  = var.aws-region
-  profile = "terraform-oreily"
 }
